@@ -19,6 +19,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoIter&show_icons=true&count_private=true&theme=radical" />
 </a>
 <a href="https://github.com/CoIter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoIter&layout=compact" />
+</a>
+
+<a href="https://github.com/CoIter">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoIter&show_icons=true&include_all_commits=true&theme=radical" />
 </a>
 <a href="https://github.com/CoIter">
